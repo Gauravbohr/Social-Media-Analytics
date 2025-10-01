@@ -1,1 +1,4 @@
-# CS661_PROJECT
+# Big Data Visual Analytics - Application
+
+Social Media Engagement Analysis (IITK – CS661)
+Designed an interactive analytics dashboard to study user engagement across social media platforms. Conducted exploratory data analysis to uncover demographic patterns, content preferences, and behavioral insights. Applied sentiment classification models (Naïve Bayes, Logistic Regression, TextBlob) to detect toxicity, misinformation, and links between digital addiction and mental health. Developed modular, web-based dashboards using HTML, CSS, JavaScript, Plotly.js, and D3.js for real-time exploration, visualizing regional trends, temporal activity peaks, and sentiment distribution. The project highlighted actionable insights on platform-specific engagement drivers and the impact of negative sentiment on online behavior.
